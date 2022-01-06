@@ -1,6 +1,5 @@
 ### Olá eu sou o joseph, programado PHP e futuro desenvolvedor web   👋
 
-- 🌱 Estudando Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/jhow1998">
