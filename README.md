@@ -1,4 +1,4 @@
-## Olá eu sou o joseph, programado PHP e futuro desenvolvedor web  👋
+## Olá eu sou o joseph, programado PHP   👋
 
 <div align="center">
   <a href="https://github.com/jhow1998">
